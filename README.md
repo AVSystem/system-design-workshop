@@ -9,6 +9,9 @@ This repository includes:
 - workshop slides:
   - [System Design Introduction](slides/Sysdesign%20workshop%202025.pdf)
   - [System Design Tradeoffs](slides/System%20design%20tradeoffs.pdf)
+- assignments:
+  - [Assignment 1 - Notes](notes/Assignment%201.pdf)
+  - [Assignment 2 - Notes](notes/Assignment%202.pdf)
 - [workshop timeline](#-workshop-timeline)
 - [useful links](#-useful-links) 
 - [sources of learning materials](#-resources)
