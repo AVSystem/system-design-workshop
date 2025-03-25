@@ -6,10 +6,12 @@ Welcome to the System Design Workshop organized by AVSystem! This repository con
 ## 📂 Repository Contents
 
 This repository includes:
-- slides - TODO
-- workshop timeline
-- useful links 
-- sources of learning materials
+- workshop slides:
+  - [System Design Introduction](slides/Sysdesign%20workshop%202025.pdf)
+  - [System Design Tradeoffs](slides/System%20design%20tradeoffs.pdf)
+- [workshop timeline](#-workshop-timeline)
+- [useful links](#-useful-links) 
+- [sources of learning materials](#-resources)
 
 
 ## 📅 Workshop Timeline
